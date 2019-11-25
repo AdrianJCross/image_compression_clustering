@@ -1,0 +1,12 @@
+Evaluation of neural network
+
+Prerequisites:
+Jupyter-lab
+Python 3.7
+Pandas
+NumPy
+Matplotlib
+
+Running:
+Running src/Evaluate.ipynb in jupyter-lab has four section which varies different neural network factors
+
